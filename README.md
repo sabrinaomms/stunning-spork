@@ -1,2 +1,2 @@
-# stunning-spork
-Étudiante / Développeur junior passionné par le web · HTML5, CSS3, JS, React · Portfolio en cours · À la recherche d’un stage ou alternance · 📍 Cameroun - Yaoundé
+# Application de gestion du secretariat d'une école primaire. ( Pouponniers )
+Ce site web stoké en local permet la gestion des differents paiements des élèves & enseigants , et la gestion des notes faisant découlé la création de leur bulletin. 
